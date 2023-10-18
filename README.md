@@ -1,7 +1,6 @@
 ## 🧐 Hi there 
 
-<table>
-<tr><td>
+<table><tr><td valign="top" width="50%">
   
 ### 📃 Recent Blog
 
@@ -25,24 +24,27 @@
 - [Hello Blog! 从零开始搭建自己的博客网站](https://wangyujie.site/Hello-blog/)
 <!-- BLOG-POST-LIST:END -->
 
-</td></tr>
+</td><td valign="top" width="50%">
 
-<tr><td>
-
-### 🧠 Second Brain
+### 🐱‍🏍 Repositories
 
 <img align="right" width="88" src="https://cdn.jsdelivr.net/gh/sun0225SUN/sun0225SUN/assets/images/technologist.png" />
 
 <!-- START_SECTION:brain -->
-* <a href='https://brain.sunguoqi.com/life/books/%E4%B8%83%E5%B9%B4%E5%B0%B1%E6%98%AF%E4%B8%80%E8%BE%88%E5%AD%90/01.html' target='_blank'>人生最重要的概念：复利</a> - 2023-09-30
-* <a href='https://brain.sunguoqi.com/web/frontend/css/css-in-depth/test.html' target='_blank'>My Note</a> - 2023-09-07
-* <a href='https://brain.sunguoqi.com/web/frontend/css/css-world/test.html' target='_blank'>My Note</a> - 2023-09-07
-* <a href='https://brain.sunguoqi.com/web/frontend/js/my-notes/test.html' target='_blank'>My Note</a> - 2023-09-07
-* <a href='https://brain.sunguoqi.com/ai/basic/test.html' target='_blank'>前言</a> - 2023-09-08
+* <a href='https://github.com/Arrowes/general_parking_slot_detection' target='_blank'>general_parking_slot_detection</a>
+* <a href='https://github.com/Arrowes/C-coding' target='_blank'>C-coding</a>
+* <a href='https://github.com/Arrowes/FEY-YOLOv7' target='_blank'>FEY-YOLOv7</a>
+* <a href='https://github.com/Arrowes/CEAM-YOLOv7' target='_blank'>CEAM-YOLOv7</a>
+* <a href='https://github.com/Arrowes/DLpractice' target='_blank'>DLpractice</a>
+* <a href='https://github.com/Arrowes/yolov5-annotations' target='_blank'>yolov5-annotations</a>
+* <a href='https://github.com/Arrowes/Machine-learning-code_By-course-of-Andrew_Ng' target='_blank'>Machine-learning-code_By-course-of-Andrew_Ng</a>
+* <a href='https://github.com/Arrowes/iHNUST-net' target='_blank'>iHNUST-net</a>
+* <a href='https://github.com/Arrowes/Blog' target='_blank'>Blog</a>
+* <a href='https://github.com/Arrowes/Arrowes.github.io' target='_blank'>Arrowes.github.io</a>
+
 <!-- END_SECTION:brain -->
 
-</td></tr>
-</table>
+</td></tr></table>
 
 <!--
 <tr><td>
