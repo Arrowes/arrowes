@@ -12,6 +12,16 @@
 - [DL模型转换及部署：torch &gt; onnx &gt; deploy](http://example.com/DLdeploy/)
 - [TDA4②：环境搭建、模型转换、Demo及Tools](http://example.com/TDA4VM2/)
 - [C, C++, Cmake](http://example.com/C/)
+- [TDA4①：SDK, TIDL, OpenVX](http://example.com/TDA4VM/)
+- [Paper：科研方法总结](http://example.com/Paper/)
+- [Project：多个项目汇总](http://example.com/Project/)
+- [DL：深度学习相关概念](http://example.com/DL/)
+- [Embedded：嵌入式应用知识](http://example.com/Embedded/)
+- [Photograph：个人摄影笔记](http://example.com/Photograph/)
+- [Linux：Ubuntu，Git，Docker](http://example.com/Linux/)
+- [Yolo：Code，Config，Ideas](http://example.com/Yolo/)
+- [Py：Anaconda，Pycharm，Pytorch](http://example.com/Pytorch/)
+- [Hello Blog! 从零开始搭建自己的博客网站](http://example.com/Hello-blog/)
 <!-- BLOG-POST-LIST:END -->
 
 </td></tr>
