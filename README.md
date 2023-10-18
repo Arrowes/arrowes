@@ -16,10 +16,12 @@
 
 </td></tr>
 
+<tr><td>
+  
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Arrowes&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+<img align="right" width="88" src="https://cdn.jsdelivr.net/gh/sun0225SUN/sun0225SUN/assets/images/technologist.png" />
 
-
-
+</td></tr>
 
 
 
