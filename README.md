@@ -1,5 +1,8 @@
 ### 🧐 Hi there 
 
+<table>
+<tr><td>
+  
 ### 📃 Recent Blog
 <img align="right" width="88" src="https://cdn.jsdelivr.net/gh/sun0225SUN/sun0225SUN/assets/images/astronaut.png" />
 
@@ -11,6 +14,7 @@
 - [C, C++, Cmake](http://example.com/C/)
 <!-- BLOG-POST-LIST:END -->
 
+</td></tr>
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Arrowes&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
