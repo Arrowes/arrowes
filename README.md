@@ -1,6 +1,6 @@
 ### 🧐 Hi there 
 
-<table>
+
 <tr><td>
   
 ### 📃 Recent Blog
