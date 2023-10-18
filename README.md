@@ -17,6 +17,7 @@
 * <a href='https://github.com/Arrowes/iHNUST-net' target='_blank'>iHNUST-net</a>
 * <a href='https://github.com/Arrowes/Blog' target='_blank'>Blog</a>
 * <a href='https://github.com/Arrowes/Arrowes.github.io' target='_blank'>Arrowes.github.io</a>
+* <a href='https://github.com/Arrowes/arrowes' target='_blank'>arrowes</a>
 
 <!-- END_SECTION:brain -->
 
