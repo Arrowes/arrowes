@@ -1,9 +1,10 @@
-### 🧐 Hi there 
+## 🧐 Hi there 
 
 <table>
 <tr><td>
   
 ### 📃 Recent Blog
+
 <img align="right" width="88" src="https://cdn.jsdelivr.net/gh/sun0225SUN/sun0225SUN/assets/images/astronaut.png" />
 
 <!-- BLOG-POST-LIST:START -->
@@ -51,11 +52,6 @@
 
 </td></tr>
 -->
-
-
-
-
-
 
 
 
