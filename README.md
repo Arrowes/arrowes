@@ -7,6 +7,7 @@
 <img align="right" width="88" src="https://cdn.jsdelivr.net/gh/sun0225SUN/sun0225SUN/assets/images/technologist.png" />
 
 <!-- START_SECTION:brain -->
+* <a href='https://github.com/Arrowes/DMS-YOLOv8' target='_blank'>DMS-YOLOv8</a>
 * <a href='https://github.com/Arrowes/general_parking_slot_detection' target='_blank'>general_parking_slot_detection</a>
 * <a href='https://github.com/Arrowes/C-coding' target='_blank'>C-coding</a>
 * <a href='https://github.com/Arrowes/FEY-YOLOv7' target='_blank'>FEY-YOLOv7</a>
