@@ -60,11 +60,7 @@
 ### :zap: Recent Activity
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#3451](https://github.com/hoppscotch/hoppscotch/pull/3451#issuecomment-1766554004) in [hoppscotch/hoppscotch](https://github.com/hoppscotch/hoppscotch)
-2. 💪 Opened PR [#152](https://github.com/hoppscotch/docs/pull/152) in [hoppscotch/docs](https://github.com/hoppscotch/docs)
-3. 🗣 Commented on [#3449](https://github.com/hoppscotch/hoppscotch/pull/3449#issuecomment-1765935493) in [hoppscotch/hoppscotch](https://github.com/hoppscotch/hoppscotch)
-4. 🗣 Commented on [#3451](https://github.com/hoppscotch/hoppscotch/pull/3451#issuecomment-1764138708) in [hoppscotch/hoppscotch](https://github.com/hoppscotch/hoppscotch)
-5. 🗣 Commented on [#3451](https://github.com/hoppscotch/hoppscotch/pull/3451#issuecomment-1761350040) in [hoppscotch/hoppscotch](https://github.com/hoppscotch/hoppscotch)
+
 <!--END_SECTION:activity-->
 
 
