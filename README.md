@@ -58,6 +58,7 @@
 </td><td valign="top" width="50%">
 
 ### :zap: Recent Activity
+
 <!--START_SECTION:activity-->
 1. 🗣 Commented on [#3451](https://github.com/hoppscotch/hoppscotch/pull/3451#issuecomment-1766554004) in [hoppscotch/hoppscotch](https://github.com/hoppscotch/hoppscotch)
 2. 💪 Opened PR [#152](https://github.com/hoppscotch/docs/pull/152) in [hoppscotch/docs](https://github.com/hoppscotch/docs)
