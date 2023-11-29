@@ -43,7 +43,7 @@
 - [Photograph：个人摄影笔记](https://wangyujie.fun/Photograph/)
 - [Linux：Ubuntu，Git，Docker](https://wangyujie.fun/Linux/)
 - [Yolo：Code，Config，Ideas](https://wangyujie.fun/Yolo/)
-- [Py：Anaconda，Pycharm，Pytorch](https://wangyujie.fun/Pytorch/)
+- [Py：conda，Pycharm，Pytorch](https://wangyujie.fun/Pytorch/)
 - [Hello Blog! 从零开始搭建自己的博客网站](https://wangyujie.fun/Hello-blog/)
 <!-- BLOG-POST-LIST:END -->
 
