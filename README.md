@@ -32,6 +32,7 @@
 - [PaperLog：DMS-YOLOv8](https://wangyujie.fun/PaperLog/)
 - [TDA4④：部署自定义深度学习模型](https://wangyujie.fun/TDA4VM4/)
 - [TDA4③：YOLOX的模型转换与SK板端运行](https://wangyujie.fun/TDA4VM3/)
+- [Computer：电脑及服务器折腾记录](https://wangyujie.fun/Computer/)
 - [DL模型转换及部署：torch &gt; onnx &gt; deploy](https://wangyujie.fun/DLdeploy/)
 - [TDA4②：环境搭建、模型转换、Demo及Tools](https://wangyujie.fun/TDA4VM2/)
 - [C, C++, Cmake](https://wangyujie.fun/C/)
