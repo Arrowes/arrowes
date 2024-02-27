@@ -30,13 +30,13 @@
 
 <!-- BLOG-POST-LIST:START -->
 - [PaperLog：DMS-YOLOv8](https://wangyujie.space/PaperLog/)
+- [Computer：电脑及服务器折腾记录](https://wangyujie.space/Computer/)
 - [TDA4④：部署自定义深度学习模型](https://wangyujie.space/TDA4VM4/)
 - [TDA4③：YOLOX的模型转换与SK板端运行](https://wangyujie.space/TDA4VM3/)
-- [Computer：电脑及服务器折腾记录](https://wangyujie.space/Computer/)
 - [DL模型转换及部署：torch &gt; onnx &gt; deploy](https://wangyujie.space/DLdeploy/)
 - [TDA4②：环境搭建、模型转换、Demo及Tools](https://wangyujie.space/TDA4VM2/)
-- [C, C++, Cmake](https://wangyujie.space/C/)
 - [TDA4①：SDK, TIDL, OpenVX](https://wangyujie.space/TDA4VM/)
+- [C, C++, Cmake](https://wangyujie.space/C/)
 - [Paper：科研方法总结](https://wangyujie.space/Paper/)
 - [Project：多个项目汇总](https://wangyujie.space/Project/)
 - [DL：深度学习相关概念](https://wangyujie.space/DL/)
