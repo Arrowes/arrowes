@@ -29,7 +29,7 @@
 <img align="right" width="88" src="https://cdn.jsdelivr.net/gh/sun0225SUN/sun0225SUN/assets/images/astronaut.png" />
 
 <!-- BLOG-POST-LIST:START -->
-- [Car：相关笔记](https://wangyujie.space/Car/)
+- [Car：Automobiles](https://wangyujie.space/Car/)
 - [PaperLog：DMS-YOLOv8](https://wangyujie.space/PaperLog/)
 - [Computer：电脑及服务器折腾记录](https://wangyujie.space/Computer/)
 - [TDA4④：部署自定义深度学习模型](https://wangyujie.space/TDA4VM4/)
