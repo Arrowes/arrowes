@@ -30,7 +30,6 @@
 
 <!-- BLOG-POST-LIST:START -->
 - [Car：Automobiles](https://wangyujie.space/Car/)
-- [PaperLog：DMS-YOLOv8](https://wangyujie.space/PaperLog/)
 - [Computer：电脑及服务器折腾记录](https://wangyujie.space/Computer/)
 - [TDA4④：部署自定义深度学习模型](https://wangyujie.space/TDA4VM4/)
 - [TDA4③：YOLOX的模型转换与SK板端运行](https://wangyujie.space/TDA4VM3/)
