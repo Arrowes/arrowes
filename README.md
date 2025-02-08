@@ -29,6 +29,7 @@
 <img align="right" width="88" src="https://cdn.jsdelivr.net/gh/sun0225SUN/sun0225SUN/assets/images/astronaut.png" />
 
 <!-- BLOG-POST-LIST:START -->
+- [AI：Deepseek,DeepLive,sd,chat-on-wechat](https://wangyujie.space/AI/)
 - [Car：Automobiles](https://wangyujie.space/Car/)
 - [Computer：电脑及服务器折腾记录](https://wangyujie.space/Computer/)
 - [TDA4④：部署自定义深度学习模型](https://wangyujie.space/TDA4VM4/)
