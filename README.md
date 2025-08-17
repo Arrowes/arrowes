@@ -46,7 +46,7 @@
 - [Linux：Ubuntu，Git，Docker](https://wangyujie.space/Linux/)
 - [Yolo：Code，Config，Ideas](https://wangyujie.space/Yolo/)
 - [Py：conda，Pycharm，Pytorch](https://wangyujie.space/Pytorch/)
-- [Hello Blog! 从零开始搭建自己的博客网站](https://wangyujie.space/Hello-blog/)
+- [Hello Blog! 从零开始搭建自己的博客网站](https://wangyujie.space/Blog/)
 <!-- BLOG-POST-LIST:END -->
 
 <!--
