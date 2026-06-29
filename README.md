@@ -44,7 +44,7 @@
 - [Embedded：嵌入式应用知识](https://wangyujie.space/Embedded/)
 - [Photograph：个人摄影笔记](https://wangyujie.space/Photograph/)
 - [Linux：Ubuntu，Git，Docker](https://wangyujie.space/Linux/)
-- [Yolo：Code，Config，Ideas](https://wangyujie.space/Yolo/)
+- [DL train：Code, Ideas, Workflow](https://wangyujie.space/DLtrain/)
 - [Py：conda，Pycharm，Pytorch](https://wangyujie.space/Pytorch/)
 - [Hello Blog! 从零开始搭建自己的博客网站](https://wangyujie.space/Blog/)
 <!-- BLOG-POST-LIST:END -->
