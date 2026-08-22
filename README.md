@@ -1,10 +1,10 @@
 ## 🧐 Hi there 
 
-<table><tr><td valign="top" width="40%">
+<table width="100%"><tr><td valign="top" width="48%">
 
 ### 🐱‍🏍 Repositories
 
-<img align="right" width="88" src="https://cdn.jsdelivr.net/gh/sun0225SUN/sun0225SUN/assets/images/technologist.png" />
+<img align="right" width="64" src="https://cdn.jsdelivr.net/gh/sun0225SUN/sun0225SUN/assets/images/technologist.png" />
 
 <!-- START_SECTION:brain -->
 * <a href='https://github.com/Arrowes/xiaoai-sapi-wakeup' target='_blank'>xiaoai-sapi-wakeup</a>
@@ -21,11 +21,11 @@
 
 <!-- END_SECTION:brain -->
 
-</td><td valign="top" width="60%">
+</td><td valign="top" width="52%">
 
 ### 📃 Recent Blog
 
-<img align="right" width="88" src="https://cdn.jsdelivr.net/gh/sun0225SUN/sun0225SUN/assets/images/astronaut.png" />
+<img align="right" width="64" src="https://cdn.jsdelivr.net/gh/sun0225SUN/sun0225SUN/assets/images/astronaut.png" />
 
 <!-- BLOG-POST-LIST:START -->
 - [AI：Deepseek,DeepLive,sd,chat-on-wechat](https://wangyujie.space/AI/)
