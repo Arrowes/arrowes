@@ -1,6 +1,6 @@
 ## 🧐 Hi there 
 
-<table><tr><td valign="top" width="50%">
+<table><tr><td valign="top" width="40%">
 
 ### 🐱‍🏍 Repositories
 
@@ -21,7 +21,7 @@
 
 <!-- END_SECTION:brain -->
 
-</td><td valign="top" width="50%">
+</td><td valign="top" width="60%">
 
 ### 📃 Recent Blog
 
