@@ -32,7 +32,7 @@ jobs:
             const repos = await github.paginate(github.rest.repos.listForUser, {
               username: owner,
               type: "owner",
-              sort: "updated",
+              sort: "created",
               direction: "desc",
               per_page: 100,
             })
