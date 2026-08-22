@@ -7,17 +7,17 @@
 <img align="right" width="88" src="https://cdn.jsdelivr.net/gh/sun0225SUN/sun0225SUN/assets/images/technologist.png" />
 
 <!-- START_SECTION:brain -->
-* <a href='https://github.com/Arrowes/arrowes' target='_blank'>arrowes</a>
-* <a href='https://github.com/Arrowes/Machine-learning-code_By-course-of-Andrew_Ng' target='_blank'>Machine-learning-code_By-course-of-Andrew_Ng</a>
 * <a href='https://github.com/Arrowes/xiaoai-sapi-wakeup' target='_blank'>xiaoai-sapi-wakeup</a>
-* <a href='https://github.com/Arrowes/Blog' target='_blank'>Blog</a>
-* <a href='https://github.com/Arrowes/Arrowes.github.io' target='_blank'>Arrowes.github.io</a>
 * <a href='https://github.com/Arrowes/DMS-YOLOv8' target='_blank'>DMS-YOLOv8</a>
-* <a href='https://github.com/Arrowes/FEY-YOLOv7' target='_blank'>FEY-YOLOv7</a>
-* <a href='https://github.com/Arrowes/CEAM-YOLOv7' target='_blank'>CEAM-YOLOv7</a>
-* <a href='https://github.com/Arrowes/iHNUST-net' target='_blank'>iHNUST-net</a>
+* <a href='https://github.com/Arrowes/arrowes' target='_blank'>arrowes</a>
 * <a href='https://github.com/Arrowes/DLpractice' target='_blank'>DLpractice</a>
 * <a href='https://github.com/Arrowes/C-coding' target='_blank'>C-coding</a>
+* <a href='https://github.com/Arrowes/FEY-YOLOv7' target='_blank'>FEY-YOLOv7</a>
+* <a href='https://github.com/Arrowes/ML-code-course-of-Andrew_Ng' target='_blank'>ML-code-course-of-Andrew_Ng</a>
+* <a href='https://github.com/Arrowes/Blog' target='_blank'>Blog</a>
+* <a href='https://github.com/Arrowes/Arrowes.github.io' target='_blank'>Arrowes.github.io</a>
+* <a href='https://github.com/Arrowes/iHNUST-net' target='_blank'>iHNUST-net</a>
+* <a href='https://github.com/Arrowes/CEAM-YOLOv7' target='_blank'>CEAM-YOLOv7</a>
 
 <!-- END_SECTION:brain -->
 
