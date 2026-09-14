@@ -8,6 +8,7 @@
 
 <!-- START_SECTION:brain -->
 * <a href='https://github.com/Arrowes/xiaoai-sapi-wakeup' target='_blank'>xiaoai-sapi-wakeup</a>
+* <a href='https://github.com/Arrowes/skills' target='_blank'>skills</a>
 * <a href='https://github.com/Arrowes/DMS-YOLOv8' target='_blank'>DMS-YOLOv8</a>
 * <a href='https://github.com/Arrowes/arrowes' target='_blank'>arrowes</a>
 * <a href='https://github.com/Arrowes/DLpractice' target='_blank'>DLpractice</a>
