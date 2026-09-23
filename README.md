@@ -45,6 +45,7 @@
 - [Photograph：个人摄影笔记](https://wangyujie.space/Photograph/)
 - [Linux：Ubuntu，Git，Docker](https://wangyujie.space/Linux/)
 - [DL train：Code, Ideas, Workflow](https://wangyujie.space/DLtrain/)
+- [机器学习与深度学习课程笔记](https://wangyujie.space/ML-DL-Course-Notes/)
 - [Py：conda，Pycharm，Pytorch](https://wangyujie.space/Pytorch/)
 - [Hello Blog! 从零开始搭建自己的博客网站](https://wangyujie.space/Blog/)
 <!-- BLOG-POST-LIST:END -->
