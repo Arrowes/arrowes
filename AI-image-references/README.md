@@ -49,3 +49,7 @@
 - [chihiro/08-haku-injured/refs/7白龙掠过眼前.jpg](chihiro/08-haku-injured/refs/7%E7%99%BD%E9%BE%99%E6%8E%A0%E8%BF%87%E7%9C%BC%E5%89%8D.jpg)
 - [chihiro/08-haku-injured/refs/8白龙冲过来.jpg](chihiro/08-haku-injured/refs/8%E7%99%BD%E9%BE%99%E5%86%B2%E8%BF%87%E6%9D%A5.jpg)
 - [chihiro/08-haku-injured/refs/9白龙冲进室内.jpg](chihiro/08-haku-injured/refs/9%E7%99%BD%E9%BE%99%E5%86%B2%E8%BF%9B%E5%AE%A4%E5%86%85.jpg)
+
+## 第 09 组：汤婆婆与钱婆婆
+
+[28 张剧情剧照与 2 张角色设定图](chihiro/09-yubaba-zeniba/README.md)，附原图直链、校验清单和重命名对照。
