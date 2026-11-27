@@ -1,12 +1,12 @@
 # 千与千寻：汤婆婆与钱婆婆篇参考图
 
-共 31 张原图：28 张电影剧照、3 张角色设定图。图片未缩放、未重新压缩。
+共 32 张原图：28 张电影剧照、4 张角色设定图。图片未缩放、未重新压缩。
 
 ## 给 ChatGPT Work 的说明
 
-请先读取本页索引和 manifest.csv，并逐张打开全部 31 张原图，报告实际读取成功的数量。每张 refs 剧照对应一张待生成的真人版照片，按 01–28 顺序处理；文件名是简短剧情提示，具体镜头、构图、动作、人物关系与场景细节以原图为准，不要只凭文件名生成。
+请先读取本页索引和 manifest.csv，并逐张打开全部 32 张原图，报告实际读取成功的数量。每张 refs 剧照对应一张待生成的真人版照片，按 01–28 顺序处理；文件名是简短剧情提示，具体镜头、构图、动作、人物关系与场景细节以原图为准，不要只凭文件名生成。
 
-千寻的真人外观与服装参考 characters/千寻工装设定图.png；白龙的龙形态外观参考 characters/白龙龙形态设定图.png。坊、坊鼠和苍蝇鸟的真人外观参考 characters/坊与坊鼠及苍蝇鸟三视图.png，按图中对应角色的正面、侧面和背面视图保持造型一致，并参考底部与千寻的体型对照保持角色之间的相对大小。坊的红布服装以本图包覆式设计为准。设定图用于固定外观，剧照用于固定分镜，保持跨图角色一致。重现剧照中的字幕或水印不是生成目标。先读图，等待用户的具体生成指令；如工具无法读取或传入所需参考图，请明确说明，不要自行减少参考图。
+千寻的真人外观与服装参考 characters/千寻工装设定图.png；白龙的龙形态外观参考 characters/白龙龙形态设定图.png。坊、坊鼠和苍蝇鸟的真人外观参考 characters/坊与坊鼠及苍蝇鸟三视图.png，按图中对应角色的正面、侧面和背面视图保持造型一致，并参考底部与千寻的体型对照保持角色之间的相对大小。坊的红布服装以本图包覆式设计为准。汤婆婆与钱婆婆共用 characters/汤婆婆与钱婆婆设定图.png 作为面容、发型、服装和配饰的外观参考，按正面、侧面和背面视图保持一致；角色身份与动作以对应剧照为准，第 16 张起钱婆婆仍须持续保持半透明形态。设定图用于固定外观，剧照用于固定分镜，保持跨图角色一致。重现剧照中的字幕或水印不是生成目标。先读图，等待用户的具体生成指令；如工具无法读取或传入所需参考图，请明确说明，不要自行减少参考图。
 
 本段包含汤婆婆离开、坊阻拦千寻、千寻保护受伤白龙、钱婆婆现身施法，以及坊和汤婆鸟变身。从第 16 张起，本段后续画面中的钱婆婆均为半透明形态，生成时须持续保持半透明效果。注意区分汤婆婆与钱婆婆；三头怪变成的假坊也须与原来的坊区分。
 
@@ -14,6 +14,7 @@
 - [原始剧照名与剧情文件名对照](rename-map.csv)
 
 ## 角色设定图
+- [汤婆婆与钱婆婆设定图.png](https://raw.githubusercontent.com/Arrowes/arrowes/main/AI-image-references/chihiro/09-yubaba-zeniba/characters/%E6%B1%A4%E5%A9%86%E5%A9%86%E4%B8%8E%E9%92%B1%E5%A9%86%E5%A9%86%E8%AE%BE%E5%AE%9A%E5%9B%BE.png)
 - [坊与坊鼠及苍蝇鸟三视图.png](https://raw.githubusercontent.com/Arrowes/arrowes/main/AI-image-references/chihiro/09-yubaba-zeniba/characters/%E5%9D%8A%E4%B8%8E%E5%9D%8A%E9%BC%A0%E5%8F%8A%E8%8B%8D%E8%9D%87%E9%B8%9F%E4%B8%89%E8%A7%86%E5%9B%BE.png)
 - [千寻工装设定图.png](https://raw.githubusercontent.com/Arrowes/arrowes/main/AI-image-references/chihiro/09-yubaba-zeniba/characters/%E5%8D%83%E5%AF%BB%E5%B7%A5%E8%A3%85%E8%AE%BE%E5%AE%9A%E5%9B%BE.png)
 - [白龙龙形态设定图.png](https://raw.githubusercontent.com/Arrowes/arrowes/main/AI-image-references/chihiro/09-yubaba-zeniba/characters/%E7%99%BD%E9%BE%99%E9%BE%99%E5%BD%A2%E6%80%81%E8%AE%BE%E5%AE%9A%E5%9B%BE.png)
