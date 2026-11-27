@@ -52,4 +52,4 @@
 
 ## 第 09 组：汤婆婆与钱婆婆
 
-[28 张剧情剧照与 4 张角色设定图](chihiro/09-yubaba-zeniba/README.md)，附原图直链、校验清单和重命名对照。
+[30 张剧情剧照与 4 张角色设定图](chihiro/09-yubaba-zeniba/README.md)，附原图直链、校验清单和重命名对照。

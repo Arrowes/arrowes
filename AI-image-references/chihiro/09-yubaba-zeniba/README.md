@@ -1,10 +1,10 @@
 # 千与千寻：汤婆婆与钱婆婆篇参考图
 
-共 32 张原图：28 张电影剧照、4 张角色设定图。图片未缩放、未重新压缩。
+共 34 张原图：30 张电影剧照、4 张角色设定图。图片未缩放、未重新压缩。
 
 ## 给 ChatGPT Work 的说明
 
-请先读取本页索引和 manifest.csv，并逐张打开全部 32 张原图，报告实际读取成功的数量。每张 refs 剧照对应一张待生成的真人版照片，按 01–28 顺序处理；文件名是简短剧情提示，具体镜头、构图、动作、人物关系与场景细节以原图为准，不要只凭文件名生成。
+请先读取本页索引和 manifest.csv，并逐张打开全部 34 张原图，报告实际读取成功的数量。每张 refs 剧照对应一张待生成的真人版照片，按 01–28 顺序处理，其中 3.1、3.2 两张屋顶切换剧照依次插在 03 与 04 之间；文件名是简短剧情提示，具体镜头、构图、动作、人物关系与场景细节以原图为准，不要只凭文件名生成。
 
 千寻的真人外观与服装参考 characters/千寻工装设定图.png；白龙的龙形态外观参考 characters/白龙龙形态设定图.png。坊、坊鼠和苍蝇鸟的真人外观参考 characters/坊与坊鼠及苍蝇鸟三视图.png，按图中对应角色的正面、侧面和背面视图保持造型一致，并参考底部与千寻的体型对照保持角色之间的相对大小。坊的红布服装以本图包覆式设计为准。汤婆婆与钱婆婆共用 characters/汤婆婆与钱婆婆设定图.png 作为面容、发型、服装和配饰的外观参考，按正面、侧面和背面视图保持一致；角色身份与动作以对应剧照为准，第 16 张起钱婆婆仍须持续保持半透明形态。设定图用于固定外观，剧照用于固定分镜，保持跨图角色一致。重现剧照中的字幕或水印不是生成目标。先读图，等待用户的具体生成指令；如工具无法读取或传入所需参考图，请明确说明，不要自行减少参考图。
 
@@ -23,6 +23,8 @@
 - [01_千寻钻进软垫堆藏身.jpg](https://raw.githubusercontent.com/Arrowes/arrowes/main/AI-image-references/chihiro/09-yubaba-zeniba/refs/01_%E5%8D%83%E5%AF%BB%E9%92%BB%E8%BF%9B%E8%BD%AF%E5%9E%AB%E5%A0%86%E8%97%8F%E8%BA%AB.jpg)
 - [02_汤婆婆走近坊的软垫床.jpg](https://raw.githubusercontent.com/Arrowes/arrowes/main/AI-image-references/chihiro/09-yubaba-zeniba/refs/02_%E6%B1%A4%E5%A9%86%E5%A9%86%E8%B5%B0%E8%BF%91%E5%9D%8A%E7%9A%84%E8%BD%AF%E5%9E%AB%E5%BA%8A.jpg)
 - [03_汤婆婆俯身哄坊睡觉.jpg](https://raw.githubusercontent.com/Arrowes/arrowes/main/AI-image-references/chihiro/09-yubaba-zeniba/refs/03_%E6%B1%A4%E5%A9%86%E5%A9%86%E4%BF%AF%E8%BA%AB%E5%93%84%E5%9D%8A%E7%9D%A1%E8%A7%89.jpg)
+- [3.1屋顶的太阳顶开始切换.jpg](https://raw.githubusercontent.com/Arrowes/arrowes/main/AI-image-references/chihiro/09-yubaba-zeniba/refs/3.1%E5%B1%8B%E9%A1%B6%E7%9A%84%E5%A4%AA%E9%98%B3%E9%A1%B6%E5%BC%80%E5%A7%8B%E5%88%87%E6%8D%A2.jpg)
+- [3.2屋顶切换为月亮星星顶 (1).jpg](https://raw.githubusercontent.com/Arrowes/arrowes/main/AI-image-references/chihiro/09-yubaba-zeniba/refs/3.2%E5%B1%8B%E9%A1%B6%E5%88%87%E6%8D%A2%E4%B8%BA%E6%9C%88%E4%BA%AE%E6%98%9F%E6%98%9F%E9%A1%B6%20%281%29.jpg)
 - [04_汤婆婆离开婴儿房.jpg](https://raw.githubusercontent.com/Arrowes/arrowes/main/AI-image-references/chihiro/09-yubaba-zeniba/refs/04_%E6%B1%A4%E5%A9%86%E5%A9%86%E7%A6%BB%E5%BC%80%E5%A9%B4%E5%84%BF%E6%88%BF.jpg)
 - [05_坊紧抓千寻不放.jpg](https://raw.githubusercontent.com/Arrowes/arrowes/main/AI-image-references/chihiro/09-yubaba-zeniba/refs/05_%E5%9D%8A%E7%B4%A7%E6%8A%93%E5%8D%83%E5%AF%BB%E4%B8%8D%E6%94%BE.jpg)
 - [06_千寻请求坊放手救白龙.jpg](https://raw.githubusercontent.com/Arrowes/arrowes/main/AI-image-references/chihiro/09-yubaba-zeniba/refs/06_%E5%8D%83%E5%AF%BB%E8%AF%B7%E6%B1%82%E5%9D%8A%E6%94%BE%E6%89%8B%E6%95%91%E7%99%BD%E9%BE%99.jpg)
